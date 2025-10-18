@@ -85,17 +85,6 @@ Developed a Power BI dashboard to explore customer churn and revenue impact.
 ⚡ I’m a fast learner who loves solving complex business problems with data.  
 📈 I bridge analytics and finance to drive better business outcomes.  
 🎧 I enjoy music, storytelling, and coffee-fueled data exploration.  
-
----
-
-### 🤝 Let’s Connect  
-
-<p align="center">
-  <a href="(https://www.linkedin.com/in/joachin-agu-4342581b2/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a>
-  <a href="mailto:joachin.agu@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio_Site-000000?logo=vercel&logoColor=white&style=flat" /></a>
-</p>
-
 ---
 
 <p align="center">
