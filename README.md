@@ -59,13 +59,13 @@ Now, I focus on:
 
 ### 💼 Featured Projects  
 
-#### 💡 [Data Science Job Market Analysis](https://github.com/JoachinAgu/data-science-job-market-analysis)
+#### 💡 [Data Science Job Market Analysis]
 Analyzed 600+ job postings to uncover salary trends, hiring hotspots, and company insights.  
 - Extracted and visualized salary ranges  
 - Created interactive maps of top hiring locations  
 - Analyzed company ratings by sector  
 
-#### 📊 [TELCO Customer Churn Dashboard](https://github.com/JoachinAgu/telco-customer-churn-dashboard)
+#### 📊 [TELCO Customer Churn Dashboard]
 Developed a Power BI dashboard to explore customer churn and revenue impact.  
 - Visualized churn KPIs and customer demographics  
 - Identified high-risk customer segments  
