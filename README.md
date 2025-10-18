@@ -73,19 +73,6 @@ Developed a Power BI dashboard to explore customer churn and revenue impact.
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoachinAgu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachinAgu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoachinAgu&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🌱 Currently Exploring  
 - Advanced **DAX** & **Power BI Modeling**  
 - **Forecasting & Financial Analytics**  
@@ -104,7 +91,7 @@ Developed a Power BI dashboard to explore customer churn and revenue impact.
 ### 🤝 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joachin-agu"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a>
+  <a href="[https://www.linkedin.com/in/joachin-agu](https://www.linkedin.com/in/joachin-agu-4342581b2/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a>
   <a href="mailto:joachin.agu@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Portfolio_Site-000000?logo=vercel&logoColor=white&style=flat" /></a>
 </p>
